@@ -1,9 +1,9 @@
 {
-  "name": "voxel-hello-world",
-  "version": "0.6.0",
+  "name": "cat-world",
+  "version": "0.0.1",
   "repository": {
     "type": "git",
-    "url": "git@github.com:maxogden/voxel-hello-world.git"
+    "url": "git@github.com:u8906250/cat-world.git"
   },
   "dependencies": {
     "voxel": "0.3.1",
