@@ -1,7 +1,0 @@
-{
-  "name": "cat-world-w",
-  "version": "0.0.1",
-  "dependencies": {
-    "cat-world": "git://github.com/u8906250/cat-world.git"
-  }
-}
